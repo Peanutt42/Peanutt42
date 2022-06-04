@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Peanutt42
+- 👀 I’m interested in programming games, espacially tools for them
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on larger projects
