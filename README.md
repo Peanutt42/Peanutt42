@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Peanutt42
+👋 Hi, I’m @Peanutt42
+
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
@@ -7,7 +8,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Peanutt42)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peanutt42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
