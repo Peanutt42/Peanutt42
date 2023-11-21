@@ -2,6 +2,6 @@
 
 ### :hammer_and_wrench: Languages
 - C++
+- rust
 - C#
 - Arduino
-- little Java
