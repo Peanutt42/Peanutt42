@@ -49,5 +49,3 @@
 
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Peanutt42/dotfiles/main?label=%20) was the last time i updated my [dotfiles](https://github.com/Peanutt42/dotfiles).
-
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Peanutt42/nixos-config/main?label=%20) was the last time i updated my [NixOS config](https://github.com/Peanutt42/nixos-config).
