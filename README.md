@@ -13,6 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Fish-white?style=for-the-badge&logo=fishshell&logoSize=auto&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Starship-white?style=for-the-badge&logo=starship&logoColor=c70a92&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Niri-white?style=for-the-badge&logo=niri&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Typst-white?style=for-the-badge&logo=typst)
 ![Static Badge](https://img.shields.io/badge/Open%20Source-white?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=black)
 
 
