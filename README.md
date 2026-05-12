@@ -15,8 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/Niri-white?style=for-the-badge&logo=niri&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Typst-white?style=for-the-badge&logo=typst)
 ![Static Badge](https://img.shields.io/badge/Open%20Source-white?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=black)
-
-
+![Static Badge](https://img.shields.io/badge/Jailbreaking%20Kindles-white?style=for-the-badge&logo=koreader)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-white?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=009799&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Framework-white?style=for-the-badge&logo=framework&logoColor=black)
