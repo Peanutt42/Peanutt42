@@ -25,6 +25,18 @@
 <br>
 
 
+#### Things i selfhost:
+
+![Static Badge](https://img.shields.io/badge/Vaultwarden-white?style=for-the-badge&logo=vaultwarden&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Vikunja-white?style=for-the-badge&logo=vikunja&logoColor=%23196AFF)
+![Static Badge](https://img.shields.io/badge/Adguard-white?style=for-the-badge&logo=adguard)
+![Static Badge](https://img.shields.io/badge/AnkiWeb-white?style=for-the-badge&logo=anki)
+![Static Badge](https://img.shields.io/badge/OctoPrint-white?style=for-the-badge&logo=octoprint)
+
+
+<br>
+
+
 #### Things i have used:
 
 ![Static Badge](https://img.shields.io/badge/Vulkan-white?style=for-the-badge&logo=vulkan&logoSize=auto&logoColor=red)
