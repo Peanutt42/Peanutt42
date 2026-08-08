@@ -34,6 +34,9 @@
 ![Static Badge](https://img.shields.io/badge/Adguard-white?style=for-the-badge&logo=adguard)
 ![Static Badge](https://img.shields.io/badge/AnkiWeb-white?style=for-the-badge&logo=anki)
 ![Static Badge](https://img.shields.io/badge/OctoPrint-white?style=for-the-badge&logo=octoprint&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Kosync-white?style=for-the-badge&logo=koreader&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Uptime%20Kuma-white?style=for-the-badge&logo=uptime-kuma&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana&logoSize=auto)
 
 
 <br>
