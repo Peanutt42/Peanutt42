@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Starship-white?style=for-the-badge&logo=starship&logoColor=c70a92&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Niri-white?style=for-the-badge&logo=niri&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Typst-white?style=for-the-badge&logo=typst)
+![Static Badge](https://img.shields.io/badge/Thunderbird-white?style=for-the-badge&logo=thunderbird)
 ![Static Badge](https://img.shields.io/badge/Open%20source-white?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Jailbreaking%20Kindles-white?style=for-the-badge&logo=koreader)
 ![Static Badge](https://img.shields.io/badge/Rooting%20Android-white?style=for-the-badge&logo=lineageos&logoColor=%23167c80&logoSize=auto)
