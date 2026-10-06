@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Peanutt42 :3
+### Hi, I’m @Peanutt42 :3
 
 
 <br>
